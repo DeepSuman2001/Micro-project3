@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+    background-color: rgb(23, 22, 22);
+}
+*{
+    color: #ffffff;
+    font-family: sans-serif;
+}
+
+.main{
+    margin-top: 20vh;
+    margin-left: 70vh;
+    
+}
